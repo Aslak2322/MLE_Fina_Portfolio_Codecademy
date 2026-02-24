@@ -1,4 +1,4 @@
-# MLE_Fina_Portfolio_Codecademy
+# MLE_FinaL_Portfolio_Codecademy
 Final project for the Machine Learning/ Ai fundamentals path on Codecademy
 
 ## Choose a topic and a corresponding question
