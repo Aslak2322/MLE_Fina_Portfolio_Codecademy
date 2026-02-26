@@ -1,7 +1,8 @@
-# MLE_FinaL_Portfolio_Codecademy
+# MLE_Final_Portfolio_Codecademy
 Final project for the Machine Learning/ Ai fundamentals path on Codecademy
 
-## Choose a topic and a corresponding question
-This question should be ML solvable
+## Topic: Prediction of grades
+In this project, I wanted to investigate whether demographic factors influence grades in a portuguese school.
 
-### Write a pipeline that answers the question using ML techniques
+## Random Forest and Ridge Regression 
+I made an ML Pipeline and compared the Ridge regression and Random Forest models. The random forest model performed better and explained 27% of the variance.
